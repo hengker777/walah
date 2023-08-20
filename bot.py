@@ -20,9 +20,9 @@ from os import name
 from colorama import *                                                
 import random, datetime, discord                        
 #=====User && Methods Setting=====#
-buyers  = [920122047311540294]  #          
-admins  = [920122047311540294]  #   ID users            
-owners  = [920122047311540294]  #          
+buyers  = [995322513892593695]  #          
+admins  = [995322513892593695]  #   ID users            
+owners  = [995322513892593695]  #          
 methods = ['HTTP-FLOOD', 'HTTP-RAW', 'HTTP-RAND', 'HTTP-SOCKET','CLOUDFLARE','UAM-BYPASS','SLOW'] # Methods
 year_now= datetime.datetime.now().strftime("%Y")     
 token   = '' # paste your token here
